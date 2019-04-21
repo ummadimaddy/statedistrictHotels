@@ -1,0 +1,374 @@
+[
+  {
+    "stateid": 12,
+    "statename": "andhra",
+    "district": [
+      {
+        "districtid": "1a",
+        "districtname": "anantapur",
+        "hotels": [
+          {
+            "hotelid": "1a1",
+            "hotelname": "madhav",
+            "dishes": [
+              {
+                "dishid": "1a11",
+                "dishname": "Madhav idly"
+              },
+              {
+                "dishid": "1a12",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a13",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "1a2",
+            "hotelname": "usha",
+            "dishes": [
+              {
+                "dishid": "1a21",
+                "dishname": "usha idly"
+              },
+              {
+                "dishid": "1a22",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a23",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "1a3",
+            "hotelname": "afthab",
+            "dishes": [
+              {
+                "dishid": "1a31",
+                "dishname": "afthab idly"
+              },
+              {
+                "dishid": "1a32",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a33",
+                "dishname": "chapathi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "districtid": "2a",
+        "districtname": "kadapa",
+        "hotels": [
+          {
+            "hotelid": "1a4",
+            "hotelname": "priya",
+            "dishes": [
+              {
+                "dishid": "1a11",
+                "dishname": "priya idly"
+              },
+              {
+                "dishid": "1a12",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a13",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "1a5",
+            "hotelname": "guru",
+            "dishes": [
+              {
+                "dishid": "1a21",
+                "dishname": "guru idly"
+              },
+              {
+                "dishid": "1a22",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a23",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "1a6",
+            "hotelname": "rupa",
+            "dishes": [
+              {
+                "dishid": "1a31",
+                "dishname": "rupa idly"
+              },
+              {
+                "dishid": "1a32",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a33",
+                "dishname": "chapathi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "districtid": "3a",
+        "districtname": "kurnool",
+        "hotels": [
+          {
+            "hotelid": "1a7",
+            "hotelname": "yashu",
+            "dishes": [
+              {
+                "dishid": "1a11",
+                "dishname": "yashu idly"
+              },
+              {
+                "dishid": "1a12",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a13",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "1a8",
+            "hotelname": "dinesh",
+            "dishes": [
+              {
+                "dishid": "1a21",
+                "dishname": "dinesh idly"
+              },
+              {
+                "dishid": "1a22",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a23",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "1a9",
+            "hotelname": "jaswanth",
+            "dishes": [
+              {
+                "dishid": "1a31",
+                "dishname": "jaswanth idly"
+              },
+              {
+                "dishid": "1a32",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a33",
+                "dishname": "chapathi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stateid": 2,
+    "statename": "karnataka",
+    "district": [
+      {
+        "districtid": "2b",
+        "districtname": "karnataka one",
+        "hotels": [
+          {
+            "hotelid": "2a1",
+            "hotelname": "madhav Kone",
+            "dishes": [
+              {
+                "dishid": "1a11",
+                "dishname": "Madhav Kone idly"
+              },
+              {
+                "dishid": "1a12",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a13",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "2a2",
+            "hotelname": "usha Kone",
+            "dishes": [
+              {
+                "dishid": "1a21",
+                "dishname": "usha Kone idly"
+              },
+              {
+                "dishid": "1a22",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a23",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "2a3",
+            "hotelname": "afthab Kone",
+            "dishes": [
+              {
+                "dishid": "1a31",
+                "dishname": "afthab Kone idly"
+              },
+              {
+                "dishid": "1a32",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a33",
+                "dishname": "chapathi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "districtid": "2c",
+        "districtname": "karnataka two",
+        "hotels": [
+          {
+            "hotelid": "2a4",
+            "hotelname": "priya kTWO",
+            "dishes": [
+              {
+                "dishid": "1a11",
+                "dishname": "priya kTWO idly"
+              },
+              {
+                "dishid": "1a12",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a13",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "2a5",
+            "hotelname": "guru kTWO",
+            "dishes": [
+              {
+                "dishid": "1a21",
+                "dishname": "guru idly"
+              },
+              {
+                "dishid": "1a22",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a23",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "2a6",
+            "hotelname": "rupa kTWO",
+            "dishes": [
+              {
+                "dishid": "1a31",
+                "dishname": "rupa idly"
+              },
+              {
+                "dishid": "1a32",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a33",
+                "dishname": "chapathi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "districtid": "2d",
+        "districtname": "karnataka three",
+        "hotels": [
+          {
+            "hotelid": "2a7",
+            "hotelname": "yashu Kthree",
+            "dishes": [
+              {
+                "dishid": "1a11",
+                "dishname": "yashu Kthree idly"
+              },
+              {
+                "dishid": "1a12",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a13",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "2a8",
+            "hotelname": "dinesh Kthree",
+            "dishes": [
+              {
+                "dishid": "1a21",
+                "dishname": "dinesh  Kthreei dly"
+              },
+              {
+                "dishid": "1a22",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a23",
+                "dishname": "chapathi"
+              }
+            ]
+          },
+          {
+            "hotelid": "2a9",
+            "hotelname": "jaswanth Kthree",
+            "dishes": [
+              {
+                "dishid": "1a31",
+                "dishname": "jaswanth Kthree idly"
+              },
+              {
+                "dishid": "1a32",
+                "dishname": "poori"
+              },
+              {
+                "dishid": "1a33",
+                "dishname": "chapathi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

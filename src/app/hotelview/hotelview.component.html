@@ -1,0 +1,5 @@
+<h2>Hotels </h2>
+<ul *ngFor="let hotels of hot">
+  <li>{{hotels.hotelname}} <button (click)="items(hotels.hotelid)">View</button></li>
+  <!-- <button>{{hotels.hotelname}}</button> -->
+</ul>

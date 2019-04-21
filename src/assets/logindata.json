@@ -1,0 +1,17 @@
+[
+  {
+    "email":"ummadi@gmail.com",
+    "password":"ummadi@55",
+    "role":"admin"
+  },
+  {
+    "email":"ummadimadhav@gmail.com",
+    "password":"ummadi@555",
+    "role":"user"
+  },
+  {
+    "email":"ummadireddy@gmail.com",
+    "password":"ummadi@5555",
+    "role":"admin"
+  }
+]

@@ -1,0 +1,7 @@
+<h1>Sign In</h1>
+<form #myForm="ngForm" [formGroup]="loginform" (ngSubmit)="onsubmit()">
+<input type="email" placeholder="Email" formControlName="email">
+<input type="password" placeholder="Password" formControlName="password">
+<button  type="submit" [disabled]="!loginform.valid">Login</button>
+</form>
+

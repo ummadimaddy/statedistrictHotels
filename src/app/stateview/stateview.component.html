@@ -1,0 +1,15 @@
+<select name="" id="" (change)="onSelectState($event.target.value)" >
+  <option value="">selsct</option>
+  <option *ngFor="let a of array1" value="{{a.stateid}}">{{a.statename}}</option>
+
+</select>
+
+<select name="" id="" (change)="onSelectDistrict($event.target.value)" >
+  <option value="">select</option>
+  <option *ngFor="let a of array2" value="{{a.districtid}}">{{a.districtname}}</option>
+
+</select>
+<ul *ngFor="let hotels of array3">
+  <li>{{hotels.hotelname}} <button (click)="routing(hotels.hotelid)">View</button></li>
+  <!-- <button>{{hotels.hotelname}}</button> -->
+</ul>
